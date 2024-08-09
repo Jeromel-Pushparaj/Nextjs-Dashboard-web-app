@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:@next/next/recommended"
+    // Add other configurations as needed
+  ],
+  "rules": {
+    // Custom rules
+  }
+}
